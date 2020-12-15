@@ -9,6 +9,12 @@ def batch_badge_creator(array)
   
   counter = 0
   
+  while counter < array.length()
+  
+  
+  
+  end
+  
 end
 
 def assign_rooms(array)
