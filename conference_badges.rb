@@ -13,7 +13,8 @@ def batch_badge_creator(array)
   
   while counter < array.length()
   
-  outarr >>
+  outarr.push(array[counter])
+  counter+=1
   
   end
   
