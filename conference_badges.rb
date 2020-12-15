@@ -24,7 +24,7 @@ end
 
 def assign_rooms(array)
   
-  array.
+  array.each
   
 end
 
