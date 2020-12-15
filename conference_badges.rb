@@ -9,9 +9,11 @@ def batch_badge_creator(array)
   
   counter = 0
   
+  out_arr
+  
   while counter < array.length()
   
-  
+  outarr >>
   
   end
   
