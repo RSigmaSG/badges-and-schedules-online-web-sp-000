@@ -7,16 +7,15 @@ end
 
 def batch_badge_creator(array)
   
-  counter = 0
-  
   out_arr = []
   
-  while counter < array.length()
   
-  out_arr.push(badge_maker(array[counter]))
-  counter+=1
-  
+  array.each do |name|
+    
+    out_arr.push(badge_maker(name))
+    
   end
+  
   
   return out_arr
   
@@ -24,9 +23,10 @@ end
 
 def assign_rooms(array)
   
+  out_arr = []
   array.each do |index|
     
-    
+    out_arr.push()
     
   end
   
