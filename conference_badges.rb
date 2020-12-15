@@ -40,6 +40,16 @@ def printer(array)
   
   rooms = assign_rooms(array)
   
-  puts(badges , rooms)
+  badges.each do |badge|
+    
+    puts badge
+    
+  end
+  
+  rooms.each do |room|
+    
+    puts room
+    
+  end
   
 end
