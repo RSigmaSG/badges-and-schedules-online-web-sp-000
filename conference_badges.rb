@@ -7,7 +7,11 @@ end
 
 def batch_badge_creator(array)
   
+  for(i = 0; i<array.length;i++)
   
+  
+  
+  end
   
 end
 
