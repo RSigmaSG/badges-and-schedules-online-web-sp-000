@@ -7,7 +7,7 @@ end
 
 def batch_badge_creator(array)
   
-  ar
+  counter = 0
   
 end
 
