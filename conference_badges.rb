@@ -24,7 +24,11 @@ end
 
 def assign_rooms(array)
   
-  array.each do |
+  array.each do |index|
+    
+    
+    
+  end
   
 end
 
